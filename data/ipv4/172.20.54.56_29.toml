@@ -42,3 +42,23 @@ latitude=1.28967
 longitude=103.85007
 accuracy_radius=50
 
+[172.20.54.61/32]
+country="China"
+country_code="CN"
+region="Zhejiang"
+region_code="ZJ"
+city="Ningbo"
+latitude=29.87819
+longitude=121.54945
+accuracy_radius=50
+
+[172.20.54.62/32]
+country="China"
+country_code="CN"
+region="Sichuan"
+region_code="SC"
+city="Chengdu"
+latitude=30.66667
+longitude=104.06667
+accuracy_radius=50
+
