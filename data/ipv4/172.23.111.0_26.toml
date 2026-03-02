@@ -6,9 +6,9 @@ source="DN42"
 [172.23.111.0/26]
 country="Spain"
 country_code="ES"
-region="Andalusia"
-region_code="AN"
-city="Estepona"
-latitude=36.4238
-longitude=-5.1443
-accuracy_radius=50
+region="Madrid"
+region_code="MAD"
+city="Madrid"
+latitude=40.4733
+longitude=-3.7306
+accuracy_radius=500
